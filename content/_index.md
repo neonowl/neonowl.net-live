@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: neonowl.website
-      text: 🧱 built with HugoBlox  🧱
+      title: neonowl.net
+      text: 🧱 digital information 🧱 cyber knowledge 🧱 web wisdom ✨🧙‍♂️ 
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: NeonOwl Website Landing Page | Hugo Theme # Website name
-baseURL: 'https://neonowl.website/' # Website URL
+baseURL: 'https://neonowl.net/' # Website URL
 
 ############################
 ## PAGE OPTIONS
