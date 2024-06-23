@@ -14,14 +14,9 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'the popular website neonowl dot net'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: 'G-J6K48SBX69'
   verification:
     google: ''
     baidu: ''
@@ -39,7 +34,7 @@ header:
       filename: "logo.gif"
     button:
       enable: true
-      text: "Get Started"
+      text: "Try HugoBlox"
       url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
@@ -47,7 +42,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2024 neonowl.net'
+    notice: '© 2001 - 2024 neonowl.net'
 
 # Localization
 locale:
