@@ -13,12 +13,12 @@ sections:
       title: neonowl dot net
       text: a website on the internet since 2001
       primary_action:
+        text: YouTube Channel
+        url: https://www.youtube.com/neonowl
+        icon: brands/youtube
+      secondary_action:
         text: Contact Us
         url: /#contact
-        icon: rocket-launch
-      secondary_action:
-        text: About Us
-        url: /#about
       announcement:
         text: "Powered by"
         link:
