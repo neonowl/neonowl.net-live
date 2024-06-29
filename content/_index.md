@@ -13,7 +13,7 @@ sections:
       title: neonowl dot net
       text: a website on the internet since 2001
       primary_action:
-        text: YouTube Channel
+        text: Go to YouTube
         url: https://www.youtube.com/neonowl
         icon: brands/youtube
       secondary_action:
