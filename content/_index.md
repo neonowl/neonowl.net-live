@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: neonowl dot net
-      text: since 2001
+      text: a website on the internet since 2001
       primary_action:
         text: Contact Us
         url: /#contact
