@@ -6,14 +6,11 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: About
-    url: /#about
-    weight: 20
   - name: Contact Us
     url: /#contact
-    weight: 30
+    weight: 20
   - name: Resources
-    weight: 40
+    weight: 30
     hasChildren: true
   - parent: Resources
     name: Blog
