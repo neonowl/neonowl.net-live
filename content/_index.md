@@ -42,13 +42,7 @@ sections:
     content:
       title: Contact Us
       subtitle: Please use this form
-      text: >
-        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
-        <script>
-          hbspt.forms.create({
-            region: "na1",
-            portalId: "46644285",
-            formId: "da15afaf-6ce4-4d71-b954-b731b5d651d4"
-            });
-        </script>
+      text: <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script><script>hbspt.forms.create({region:"na1",portalId:"46644285",formId:"da15afaf-6ce4-4d71-b954-b731b5d651d4"});</script>
+      design:
+        columns: 1
 ---
